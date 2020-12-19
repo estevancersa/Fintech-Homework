@@ -47,12 +47,15 @@ Success is measure by AUM, and Betterment is on top as independent RoboAdvisors 
 ## Recommendations
 
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
-Global AUM management, strategies for many contries more.
+
+Global AUM management, strategies for many countries more.
 
 * Why do you think that offering this product or service would benefit the company?
+
 Yes the company will have further users and more AUM under management.
 
 * What technologies would this additional product or service utilize?
+
 Hard to tell at this point, most likely risk parameter most be change to meet the local country investor necesities.
 
 * Why are these technologies appropriate for your solution?
