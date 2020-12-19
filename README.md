@@ -23,6 +23,7 @@ Personal financial advise automation. The “problem” in the financial industr
 What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 Retail Customers
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+![Betterment](TechStack.png)
 
 
 ## Landscape:
