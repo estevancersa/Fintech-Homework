@@ -6,7 +6,7 @@
 * The company incorporated 2008
 * The founders of the company are Jon Stein and Eli Broverman
 * The idea for the company (or project) come about from hearing constantly “What should I do with my money?”
-* How is the company funded? How much funding have they received? The company was funded by the founders until it launch on TechCrunch
+* The company was funded by the founders until it launch on TechCrunch, a then did series of funding as follows
 
 ![Betterment](Capitalraised.png)
 ![Betterment](Fundingrounds.png)
