@@ -17,7 +17,7 @@
 
 * What specific financial problem is the company or project trying to solve?
 
-Financial advisor automation. The “problem” in the financial industry inspired Betterment. The problem that we saw was companies were not thoughtful about how to deliver the best products or be aligned with their customers. Betterment, wants to be the obvious answer to the question “What should I do with my money?” There was no great option on how to invest the right way: automated, low cost, with a great user experience. 
+Personal financial advise automation. The “problem” in the financial industry inspired Betterment. The problem that we saw was companies were not thoughtful about how to deliver the best products or be aligned with their customers. Betterment, wants to be the obvious answer to the question “What should I do with my money?” There was no great option on how to invest the right way: automated, low cost, with a great user experience. 
  
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
 What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
@@ -37,6 +37,7 @@ Acorns, WealthFront, Stash, Personal Capital, SoFi, FacetWealth, Blooom, Wealths
 ## Results
 
 * What has been the business impact of this company so far?
+![Betterment](competidors.png)
 
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 
