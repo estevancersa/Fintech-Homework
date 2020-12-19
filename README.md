@@ -40,7 +40,7 @@ Acorns, WealthFront, Stash, Personal Capital, SoFi, FacetWealth, Blooom, Wealths
 ![Betterment](competidors.png)
 
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
-
+Success is measure by AUM, and Betterment is on top as independent RoboAdvisors only succeeded by RoboAdvisors of financial institutions.
 * How is your company performing relative to competitors in the same domain?
 
 
