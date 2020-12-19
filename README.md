@@ -9,6 +9,8 @@
 * How is the company funded? How much funding have they received? The company was funded by the founders until it launch on TechCrunch
 
 ![Betterment](Capitalraised.png)
+![Betterment](Fundingrounds.png)
+
 *AUM 22 billion USD
 
 ## Business Activities:
