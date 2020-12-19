@@ -65,5 +65,22 @@ Hard to tell at this point, most likely risk parameter most be change to meet th
 Full assesment on transfer of technology to local factors needs to be assed before making any conclusion.
 
 
+## Sources
+
+https://www.betterment.com/
+
+https://www.youtube.com/watch?v=A-9II-zBq1k
+
+https://www.betterment.com/resources/the-history-of-betterment/ 
+
+https://www.owler.com/company/betterment 
+
+https://thefintechblog.com/tag/betterment/ 
+
+https://stackshare.io/betterment/betterment 
+
+https://www.nerdwallet.com/reviews/investing/advisors/betterment
+
+
 
 
