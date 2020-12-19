@@ -62,7 +62,7 @@ Yes the company will have further users and more AUM under management.
 Hard to tell at this point, most likely risk parameter most be change to meet the local country investor necesities.
 
 * Why are these technologies appropriate for your solution?
-
+Full assesment on transfer of technology to local factors needs to be assed before making any conclusion.
 
 
 
